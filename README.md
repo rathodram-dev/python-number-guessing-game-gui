@@ -36,4 +36,4 @@ This project was created to practice Python programming,
 conditional statements, loops, functions, and GUI development.
 
 ## Author
-B.Sc. IT (AI & ML) Student
+Rathod Ram
